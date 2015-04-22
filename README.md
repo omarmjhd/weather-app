@@ -5,11 +5,11 @@ This is a simple weather application I created for my CS2803 class at Georgia Te
 
 
 ### Technologies Used 
-	* HTML
-	* CSS 
-	* JavaScript 
-	* PHP
-	* AJAX
-	* MySQL
+* HTML
+* CSS 
+* JavaScript 
+* PHP
+* AJAX
+* MySQL
 
 The application is currently hosted on as an Azure Web App and can be accessed at: [5 Days of Weather](https://weather-app.azurewebsites.net)
