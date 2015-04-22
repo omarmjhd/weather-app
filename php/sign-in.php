@@ -1,9 +1,9 @@
 <?php
 
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'weather');
-define('DB_USER','root');
-define('DB_PASSWORD','');
+define('DB_HOST', 'br-cdbr-azure-south-a.cloudapp.net');
+define('DB_NAME', 'weatherappdb');
+define('DB_USER','bcf47cbb515149');
+define('DB_PASSWORD','4569ced7');
 
 $con=mysql_connect(DB_HOST,DB_USER,DB_PASSWORD) or die("Failed to connect to MySQL: " . mysql_error());
 $db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_error());
