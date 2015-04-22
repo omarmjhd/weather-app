@@ -1,8 +1,8 @@
 <?php
 // DB connection info
 $host = "br-cdbr-azure-south-a.cloudapp.net";
-$user = "bcf47cbb515149";
-$pwd = "4569ced7";
+$user = "root";
+$pwd = "";
 $db = "weatherappdb";
 try{
     $conn = new PDO( "mysql:host=$host;dbname=$db", $user, $pwd);
