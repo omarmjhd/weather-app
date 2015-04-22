@@ -1,7 +1,7 @@
 <?php
 
 define('DB_HOST', 'br-cdbr-azure-south-a.cloudapp.net');
-define('DB_NAME', 'weatherappdb');
+define('DB_NAME', 'acsm_e138def7b2249b4');
 define('DB_USER','bcf47cbb515149');
 define('DB_PASSWORD','4569ced7');
 
