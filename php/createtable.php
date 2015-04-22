@@ -2,8 +2,8 @@
 // DB connection info
 $host = "br-cdbr-azure-south-a.cloudapp.net";
 $user = "bcf47cbb515149";
-$pwd = "4569ced7";
-$db = "weatherappdb";
+$pwd = "e2463bf18453f93";
+$db = "acsm_e138def7b2249b4";
 try{
     $conn = new PDO( "mysql:host=$host;dbname=$db", $user, $pwd);
     $conn->setAttribute( PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION );
