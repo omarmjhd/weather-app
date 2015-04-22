@@ -3,7 +3,7 @@
 define('DB_HOST', 'br-cdbr-azure-south-a.cloudapp.net');
 define('DB_NAME', 'acsm_e138def7b2249b4');
 define('DB_USER','bcf47cbb515149');
-define('DB_PASSWORD','4569ced7');
+define('DB_PASSWORD','e2463bf18453f93');
 
 $con=mysql_connect(DB_HOST,DB_USER,DB_PASSWORD) or die("Failed to connect to MySQL: " . mysql_error());
 $db=mysql_select_db(DB_NAME,$con) or die("Failed to connect to MySQL: " . mysql_error());
