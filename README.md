@@ -12,4 +12,4 @@ This is a simple weather application I created for my CS2803 class at Georgia Te
 * AJAX
 * MySQL
 
-The application is currently hosted on as an Azure Web App and can be accessed at: [5 Days of Weather](https://weather.omarmjhd.me)
+The application is currently hosted on as an Azure Web App and can be accessed at: [5 Days of Weather](http://weather-app.azurewebsites.net)
